@@ -13,12 +13,12 @@ error_exit ()
 
 if [ -z $num1 ]
 then
-  error_exit "provide 1st arguments"
+  error_exit "provide 1st arguments with third"
 fi
 
 if [ -z $num2 ]
 then
-  error_exit "provide 1st arguments"
+  error_exit "provide 1st arguments with third"
 fi
 
 
